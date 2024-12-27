@@ -1,0 +1,15 @@
+{
+  "name": "stochastic-main",
+  "version": "1.0.0",
+  "description": "This project is dedicated to providing innovative technology solutions to address industrial challenges and meet societal needs. Leveraging cutting-edge technologies such as Artificial Intelligence, Machine Learning, Blockchain, and Data Science, this platform serves as a hub for innovation and growth.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "stochastic-main": "file:"
+  }
+}
